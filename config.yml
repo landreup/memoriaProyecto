@@ -31,6 +31,7 @@ book:
         - { element: chapter, number: 5, content: 5.disenyo.md }
         - { element: chapter, number: 6, content: 6.implementacion.md }
         - { element: chapter, number: 7, content: 7.conclusiones.md }
+        - { element: lof }
 
     editions:
         ebook:
