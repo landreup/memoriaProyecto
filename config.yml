@@ -23,6 +23,7 @@ book:
         #- { element: cover }
         - { element: title }
         - { element: toc   }
+        - { element: lof }
         #- { element: part, number: 1, title: "Introducción muy interesante" }
         - { element: chapter, number: 1, content: 1.introduccion.md }
         - { element: chapter, number: 2, content: 2.descripcion.md }
@@ -31,7 +32,9 @@ book:
         - { element: chapter, number: 5, content: 5.disenyo.md }
         - { element: chapter, number: 6, content: 6.implementacion.md }
         - { element: chapter, number: 7, content: 7.conclusiones.md }
-        - { element: lof }
+        - { element: appendix, number: A, content: 8.pantallas.md }
+        - { element: appendix, number: B, content: 9.manual.md }
+        - { element: afterword, content: 10.bibliografia.md}
 
     editions:
         ebook:
