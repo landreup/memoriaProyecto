@@ -4,14 +4,14 @@ book:
     author:           "Luis Andreu Puchol"
     edition:          "Primera Edición"
     language:         es
-    publication_date: 15-05-2012
+    publication_date: 16-07-2012
 
     university:       "Universitat Jaume I"
     subject:          "II31 - Sistemas Informáticos"
     degree:           "Ingeniería Informática"
     course:           "2011-2012"
-    project:          "Desarrollo de una herramienta web para el sistema de evaluación de la asignatura Prácticas en empresa y proyecto fin de grado del nuevo Grado en Ingeniería Informática"
-    tutor:            "Ángeles López y Maria José Aramburu"   
+    project:          "Desarrollo de una herramienta web para el sistema de evaluación de la asignatura 'Prácticas externas y proyecto fin de grado' del nuevo Grado en Ingeniería Informática"
+    tutor:            "Ángeles López y María José Aramburu"   
 
     generator: { name: easybook, version: 4.4 }
 
